@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\bin\Debug\net6.0\boxer.core.deps.json
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\bin\Debug\net6.0\boxer.core.dll
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\bin\Debug\net6.0\boxer.core.pdb
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\obj\Debug\net6.0\boxer.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\obj\Debug\net6.0\boxer.core.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\obj\Debug\net6.0\boxer.core.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\obj\Debug\net6.0\boxer.core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\obj\Debug\net6.0\boxer.core.sourcelink.json
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\obj\Debug\net6.0\boxer.core.dll
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\obj\Debug\net6.0\refint\boxer.core.dll
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\obj\Debug\net6.0\boxer.core.pdb
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\obj\Debug\net6.0\ref\boxer.core.dll
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\obj\Debug\net6.0\boxer.core.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\bin\Debug\net6.0\boxer.core.runtimeconfig.json
+C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.core\obj\Debug\net6.0\boxer.core.genruntimeconfig.cache
