@@ -94,7 +94,7 @@ namespace boxer.business.Services.Implementations
                 }
                 Helper.DeleteFile(_env.WebRootPath, "uploads/students", existstudent.ImageUrl);
                
-                students.ImageUrl = students.ImageFile.SaveFile(_env.WebRootPath, "uploads/students");
+                existstudent.ImageUrl = students.ImageFile.SaveFile(_env.WebRootPath, "uploads/students");
 
             }
             existstudent.Name = students.Name;

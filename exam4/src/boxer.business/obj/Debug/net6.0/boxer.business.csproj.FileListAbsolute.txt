@@ -18,3 +18,22 @@ C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.business\obj\Debug\net6.0\boxer.
 C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.business\obj\Debug\net6.0\ref\boxer.business.dll
 C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.business\bin\Debug\net6.0\boxer.business.runtimeconfig.json
 C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.business\obj\Debug\net6.0\boxer.business.genruntimeconfig.cache
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\bin\Debug\net6.0\boxer.business.deps.json
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\bin\Debug\net6.0\boxer.business.runtimeconfig.json
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\bin\Debug\net6.0\boxer.business.dll
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\bin\Debug\net6.0\boxer.business.pdb
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\bin\Debug\net6.0\boxer.core.dll
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\bin\Debug\net6.0\boxer.data.dll
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\bin\Debug\net6.0\boxer.data.pdb
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\bin\Debug\net6.0\boxer.core.pdb
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\obj\Debug\net6.0\boxer.business.csproj.AssemblyReference.cache
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\obj\Debug\net6.0\boxer.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\obj\Debug\net6.0\boxer.business.AssemblyInfoInputs.cache
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\obj\Debug\net6.0\boxer.business.AssemblyInfo.cs
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\obj\Debug\net6.0\boxer.business.csproj.CoreCompileInputs.cache
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\obj\Debug\net6.0\boxer.business.csproj.CopyComplete
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\obj\Debug\net6.0\boxer.business.dll
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\obj\Debug\net6.0\refint\boxer.business.dll
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\obj\Debug\net6.0\boxer.business.pdb
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\obj\Debug\net6.0\boxer.business.genruntimeconfig.cache
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.business\obj\Debug\net6.0\ref\boxer.business.dll

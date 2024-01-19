@@ -16,3 +16,20 @@ C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.data\obj\Debug\net6.0\boxer.data
 C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.data\obj\Debug\net6.0\ref\boxer.data.dll
 C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.data\bin\Debug\net6.0\boxer.data.runtimeconfig.json
 C:\Users\II novbe\Desktop\exam4\exam4\src\boxer.data\obj\Debug\net6.0\boxer.data.genruntimeconfig.cache
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\bin\Debug\net6.0\boxer.data.deps.json
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\bin\Debug\net6.0\boxer.data.runtimeconfig.json
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\bin\Debug\net6.0\boxer.data.dll
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\bin\Debug\net6.0\boxer.data.pdb
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\bin\Debug\net6.0\boxer.core.dll
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\bin\Debug\net6.0\boxer.core.pdb
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\obj\Debug\net6.0\boxer.data.csproj.AssemblyReference.cache
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\obj\Debug\net6.0\boxer.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\obj\Debug\net6.0\boxer.data.AssemblyInfoInputs.cache
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\obj\Debug\net6.0\boxer.data.AssemblyInfo.cs
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\obj\Debug\net6.0\boxer.data.csproj.CoreCompileInputs.cache
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\obj\Debug\net6.0\boxer.data.csproj.CopyComplete
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\obj\Debug\net6.0\boxer.data.dll
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\obj\Debug\net6.0\refint\boxer.data.dll
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\obj\Debug\net6.0\boxer.data.pdb
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\obj\Debug\net6.0\boxer.data.genruntimeconfig.cache
+C:\Users\User\Masaüstü\exam4\exam4\src\boxer.data\obj\Debug\net6.0\ref\boxer.data.dll

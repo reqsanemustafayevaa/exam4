@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("boxer.data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4660c9fa6aac6bd460c45ce91af5dbdfce152258")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("boxer.data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("boxer.data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
